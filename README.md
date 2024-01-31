@@ -1,0 +1,2 @@
+# pratica-while
+laço while
